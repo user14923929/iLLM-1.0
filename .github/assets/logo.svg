@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.1742mm"
+   height="21.242739mm"
+   viewBox="0 0 116.1742 21.242739"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   sodipodi:docname="iLLM-1.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="2.0334082"
+     inkscape:cx="182.94409"
+     inkscape:cy="85.816514"
+     inkscape:window-width="1662"
+     inkscape:window-height="1078"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.8613905,-9.415768)">
+    <g
+       id="g6"
+       inkscape:label="Text">
+      <text
+         xml:space="preserve"
+         style="font-size:29.3814px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans';writing-mode:lr-tb;direction:ltr;fill:#75a928;stroke:#000000;stroke-width:1.73513;stroke-linecap:round"
+         x="11.648884"
+         y="30.217804"
+         id="text1"
+         inkscape:label="LLM"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-size:29.3814px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.73513"
+           x="11.648884"
+           y="30.217804"> LLM-1.0</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.439062;stroke-linecap:round"
+         d="m 14.126531,30.220801 -0.0035,-15.22843 2.196333,0.007 -0.0068,15.22684 z"
+         id="path1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Stick" />
+    </g>
+    <g
+       id="g7"
+       inkscape:label="Jumping Dot">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14724;stroke-linecap:round"
+         id="path2"
+         cx="8.9381371"
+         cy="14.832198"
+         rx="1.5496483"
+         ry="1.5853543"
+         inkscape:label="Shape" />
+      <g
+         id="g5"
+         inkscape:label="Jump effect">
+        <path
+           style="fill:#000000;fill-opacity:0.183907;stroke:none;stroke-width:0.439062;stroke-linecap:round"
+           d="m 4.8613905,17.353981 c 1.214011,-1.34255 2.370891,-1.871 2.370891,-1.871"
+           id="path3"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:#000000;fill-opacity:0.183907;stroke:none;stroke-width:0.439062;stroke-linecap:round"
+           d="m 5.3962245,17.996701 c 1.006489,-1.50441 2.074507,-2.19504 2.074507,-2.19504"
+           id="path4"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:#000000;fill-opacity:0.183907;stroke:none;stroke-width:0.439062;stroke-linecap:round"
+           d="m 6.2318455,18.694861 c 0.734728,-1.65422 1.669084,-2.51713 1.669084,-2.51713"
+           id="path5"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.18;stroke:none;stroke-width:1;stroke-linecap:round"
+       x="47.920872"
+       y="38.102753"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:1"
+         x="47.920872"
+         y="38.102753"></tspan></text>
+  </g>
+</svg>

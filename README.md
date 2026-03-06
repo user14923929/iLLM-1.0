@@ -1,5 +1,7 @@
 # iLLM-1.0
 
+![logo](.github/assets/logo.svg)
+
 Personal local LLM. Open Source under MIT License.
 
 ## Requirements
